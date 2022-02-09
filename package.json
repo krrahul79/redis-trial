@@ -1,0 +1,27 @@
+{
+  "name": "redis-trial",
+  "version": "1.0.0",
+  "description": "Trying redis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krrahul79/redis-trial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krrahul79/redis-trial/issues"
+  },
+  "homepage": "https://github.com/krrahul79/redis-trial#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "redis": "^4.0.3",
+    "url": "^0.11.0"
+  }
+}
